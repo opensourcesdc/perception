@@ -1,6 +1,6 @@
 """
 Vehicle classification models and features.
-The training dataset from udacity is not really clean.
+Contributed by Li Ma, github:dolaameng
 """
 
 from . import config
